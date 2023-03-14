@@ -1,0 +1,4 @@
+﻿  lab_6.cpp
+C:\Users\Kyrliki\source\repos\lab_6\lab_6\lab_6.cpp(43,19): warning C4805: ==: небезопасное смешение типа "bool" и типа "double" в операции
+C:\Users\Kyrliki\source\repos\lab_6\lab_6\lab_6.cpp(43,24): warning C4805: ==: небезопасное смешение типа "bool" и типа "double" в операции
+  lab_6.vcxproj -> C:\Users\Kyrliki\source\repos\lab_6\x64\Debug\lab_6.exe
